@@ -1,11 +1,9 @@
-.fof {
-  background: #755454;
-  max-width: 1440px;
-  height: 150px;
+body {
+  margin: 0;
+  background: #EBAFAF;
 }
 
-.tits {
-  background: #EBAFAF;
-  max-width: 1440px;
-  height: 1024px;
+.fof {
+  background: #755454;
+  height: 150px;
 }/*# sourceMappingURL=index.css.map */
